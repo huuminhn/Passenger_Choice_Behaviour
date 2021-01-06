@@ -32,7 +32,7 @@ Also, discuss substantive policy implications based on the quantitative analysis
 ---
 #### Model Building: 
 - Variable selection:   
--Using the Holdout method to split the dataset, and using Backward/Forward method for variable selections.
+-Using the Holdout method to split the dataset, and using Backward/Forward method for variable selections.  
 -Conduct Correlation Analysis and EDA to allocate potential  independent variables.
 <img src="Correlation.png?raw=true"/>
 
