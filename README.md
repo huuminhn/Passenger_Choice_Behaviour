@@ -25,9 +25,12 @@ Also, discuss substantive policy implications based on the quantitative analysis
 #### Exploratory Data Analysis:
  - Data Processing: Treat outliers, Missing Values, wrong-format data cells.
  - Future Engineer: Re-categorize variables
-  + Airports: Foreign Carriers vs. Korean Carriers
-  + Airlines: E.g. Occupation (regroup 12 categories into 4): Business, Government, Unemployment and Other
+  -Airports: Foreign Carriers vs. Korean Carriers
+  -Airlines: E.g. Occupation (regroup 12 categories into 4): Business, Government, Unemployment and Other
  - Descriptive Statistic.
  - Data Visualization.
 ---
 #### Model Building: 
+- Variable selection: 
+-Conduct Correlation Analysis and EDA to allocate potential  independent variables.  
+-Using the Holdout method to split the dataset, and using Backward/Forward method for variable selections.  
