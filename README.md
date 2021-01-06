@@ -32,7 +32,16 @@ Also, discuss substantive policy implications based on the quantitative analysis
 ---
 #### Model Building: 
 - Variable selection:   
--Conduct Correlation Analysis and EDA to allocate potential  independent variables.    
+-Conduct Correlation Analysis and EDA to allocate potential  independent variables.
+<img src="Correlation.png?raw=true"/>
 -Using the Holdout method to split the dataset, and using Backward/Forward method for variable selections.  
 
--Build a Logistic Regression Model using the above variables from selection step.
+- Build a Logistic Regression Model using the above variables from selection step.
+- Build a Decision Tree Model which can be demonstrated as below: 
+<img src="Tree.png?raw=true"/>
+---
+#### Result:
+- For Airport choices: Logistic Regression has accuracy of 84%, higher than that in Decision Tree at 78%.
+- For Airlines choice (regrouped as Foregin Carriers and Korean Carriers): Logistic Regression has accuracy of 71%, slightly higher than that in Decision Tree at 68%.  
+- Logistic Regression Model performs more efficiency in term of accuracy and  recall rate.
+
