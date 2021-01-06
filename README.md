@@ -39,8 +39,10 @@ Also, discuss substantive policy implications based on the quantitative analysis
 - Build a Logistic Regression Model using the above variables from selection step.
 - Build a Decision Tree Model which can be demonstrated as below: 
 <img src="Tree.png?raw=true"/>
+
 ---
-#### Result:
+
+#### Result:  
 - For Airport choices: Logistic Regression has accuracy of 84%, higher than that in Decision Tree at 78%.
 - For Airlines choice (regrouped as Foregin Carriers and Korean Carriers): Logistic Regression has accuracy of 71%, slightly higher than that in Decision Tree at 68%.  
 - Logistic Regression Model performs more efficiency in term of accuracy and  recall rate.
