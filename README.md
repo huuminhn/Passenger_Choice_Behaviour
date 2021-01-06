@@ -23,8 +23,11 @@ Also, discuss substantive policy implications based on the quantitative analysis
 - Alternative-Specific : flight information, travel time, mode of transport, etc.
 ---
 #### Exploratory Data Analysis:
- - Data Processing: Treat outliers, Missing Values, Re-categorize variables ( Foreign Carriers vs. Korean Carriers)
+ - Data Processing: Treat outliers, Missing Values, wrong-format data cells.
+ - Future Engineer: Re-categorize variables
+  + Airports: Foreign Carriers vs. Korean Carriers
+  + Airlines: E.g. Occupation (regroup 12 categories into 4): Business, Government, Unemployment and Other
  - Descriptive Statistic.
  - Data Visualization.
- 
+---
 #### Model Building: 
