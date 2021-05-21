@@ -14,7 +14,7 @@ To recognize and predict the main reasons of how passengers choosing such airpor
 Also, discuss substantive policy implications based on the quantitative analysis.  
 
 ---
-#### The Dataset: 
+####  Dataset: 
 
 **Data sets**: 27 variables from survey data of 488 respondents.
 - Airport choice: Gimpo, Incheon.
