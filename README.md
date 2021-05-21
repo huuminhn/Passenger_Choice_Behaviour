@@ -1,6 +1,6 @@
 ## Python: Classification and Prediction of Airlines and Airports choice.
 This project served as an academic project that is prohibited to share the original dataset and codes due to privacy.  
-Summary of key findings and insights will be provided.
+Summary of key findings and insights will  provided.
 
 ---
 
