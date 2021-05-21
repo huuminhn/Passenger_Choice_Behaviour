@@ -8,7 +8,7 @@ Summary of key findings and insights will be provided.
 #### Project objective:
 This project based on South Korea, specifically two international airports in Seoul Metropolitan Area:  
 - **Gimpo airport**: Smaller and old, but closer to the city 
-- **Incheon airport**: Larger and new hub airport, but farther from the  
+- **Incheon airport**: Larger and new hub airport, but farther from the city
 <img src="Airports.png?raw=true"/>
 To recognize and predict the main reasons of how passengers choosing such airports and airlines is the main aim of this project.  
 Also, discuss substantive policy implications based on the quantitative analysis.  
